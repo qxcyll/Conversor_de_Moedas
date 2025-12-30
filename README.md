@@ -1,5 +1,7 @@
 # Conversor de Moedas
 
+## 📖 Descrição
+
 Bem-vindo ao **Conversor de Moedas**, um projeto desenvolvido como parte da trilha *Backend Java G9 ONE (Alura)*.
 
 Este desafio tem como objetivo reforçar conhecimentos fundamentais de Java, consumo de APIs, manipulação de JSON e interação via console. Constrói um aplicativo capaz de converter valores monetários em tempo real utilizando taxas atualizadas diretamente de uma API.
@@ -24,7 +26,7 @@ Este projeto foi excelente para praticar:
 - Estruturação de menus e interação com o usuário via console
 - Organização de código em classes e métodos
 
-## 🚀 Funcionalidades
+## ✨ Funcionalidades
 - Menu interativo no console
 - Conversão entre múltiplas moedas
 - Consumo de API de câmbio em tempo real
@@ -33,12 +35,17 @@ Este projeto foi excelente para praticar:
 ## 📦 Como Executar
 Este projeto pode ser executado **diretamente pelo IntelliJ IDEA**, de forma simples e prática.
 
-1. Clone este repositório para sua máquina::
+### Clonando o Repositório
+
+1. Clone este repositório para sua máquina:
+   
    ```bash
    git clone https://github.com/seu-usuario/Conversor_de_Moedas
    ```
    *Substitua `seu-usuario` pelo seu nome de usuário no GitHub.*
-> Caso esteja usando o IntelliJ, abra o projeto clonado nele e rode a aplicação. 
+> Caso esteja usando o IntelliJ, abra o projeto clonado nele e rode a aplicação.
+
+### Executando a Aplicação
 
 2. Compile o projeto:
    ```bash
@@ -52,15 +59,9 @@ Este projeto pode ser executado **diretamente pelo IntelliJ IDEA**, de forma sim
 
 4. Siga as instruções no menu e aproveite as conversões!
 
-## 🛠️ Tecnologias Utilizadas
-- Java 21+  
-- Gson para JSON  
-- [API ExchangeRate](https://www.exchangerate-api.com/)
-- Scanner para entrada de dados
-
-### 👨🏻‍💻 Autor
+## 👨🏻‍💻 Autor
 
 | [<img loading="lazy" src="https://github.com/qxcyll.png" width=115><br><sub>Gabriel M.</sub>](https://github.com/qxcyll) |
 | :---: |
 
-*"A prática leva à perfeição"* 
+*Feito com ❤️ para o curso da Alura!* 
