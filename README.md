@@ -35,7 +35,7 @@ Este projeto pode ser executado **diretamente pelo IntelliJ IDEA**, de forma sim
 
 1. Clone este repositório para sua máquina::
    ```bash
-   git clone https://github.com/seu-usuario/
+   git clone https://github.com/seu-usuario/Conversor_de_Moedas
    ```
 > Caso esteja usando o IntelliJ, abra o projeto clonado nele e rode a aplicação. 
 
