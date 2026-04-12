@@ -61,7 +61,7 @@ Este projeto pode ser executado **diretamente pelo IntelliJ IDEA**, de forma sim
 
 ## 👨🏻‍💻 Autor
 
-| [<img loading="lazy" src="https://github.com/qxcyll.png" width=115><br><sub>Gabriel M.</sub>](https://github.com/qxcyll) |
+| [<img loading="lazy" src="https://github.com/qxcyll.png" width=115><br><sub>Gabriel M.</sub>](https://github.com/qxcynk) |
 | :---: |
 
 *Feito com ❤️ para o curso da Alura!* 
